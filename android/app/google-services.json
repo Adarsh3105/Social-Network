@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "532882333045",
+    "project_id": "socialnetwork-2a0aa",
+    "storage_bucket": "socialnetwork-2a0aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532882333045:android:a7f4183ee0a4a06cfac73c",
+        "android_client_info": {
+          "package_name": "com.adarsh.socialNetwork"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "532882333045-ml56l4sbkj0uds25qgm4hgos27frokcs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.adarsh.socialNetwork",
+            "certificate_hash": "e82e63f7d32e83a7b317e0206170376b06484be8"
+          }
+        },
+        {
+          "client_id": "532882333045-ns4pc44gjv79euju0kie1s4lbu9gurhm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDi9dD_UsmCllWta3Tvug4UJj2V9A89tDg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "532882333045-ns4pc44gjv79euju0kie1s4lbu9gurhm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
