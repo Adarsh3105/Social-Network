@@ -1,4 +1,4 @@
-# baazigar_flutter
+# SocialNetwork
 
 A new Flutter project.
 
